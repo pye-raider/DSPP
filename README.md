@@ -1,6 +1,9 @@
 # DSPP
 
 ## My Skills
+
+![shiny](/images/shiny.png)
+
 <p>I have gathered an array of skills using various programming languages, including the following -</p>
 
 <ul>
